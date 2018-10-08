@@ -1,9 +1,0 @@
-D:\Code\Webview template\src\WebViewTemplate.Services\bin\Debug\netstandard2.0\WebViewTemplate.Services.deps.json
-D:\Code\Webview template\src\WebViewTemplate.Services\bin\Debug\netstandard2.0\WebViewTemplate.Services.dll
-D:\Code\Webview template\src\WebViewTemplate.Services\bin\Debug\netstandard2.0\WebViewTemplate.Services.pdb
-D:\Code\Webview template\src\WebViewTemplate.Services\obj\Debug\netstandard2.0\WebViewTemplate.Services.csprojAssemblyReference.cache
-D:\Code\Webview template\src\WebViewTemplate.Services\obj\Debug\netstandard2.0\WebViewTemplate.Services.csproj.CoreCompileInputs.cache
-D:\Code\Webview template\src\WebViewTemplate.Services\obj\Debug\netstandard2.0\WebViewTemplate.Services.AssemblyInfoInputs.cache
-D:\Code\Webview template\src\WebViewTemplate.Services\obj\Debug\netstandard2.0\WebViewTemplate.Services.AssemblyInfo.cs
-D:\Code\Webview template\src\WebViewTemplate.Services\obj\Debug\netstandard2.0\WebViewTemplate.Services.dll
-D:\Code\Webview template\src\WebViewTemplate.Services\obj\Debug\netstandard2.0\WebViewTemplate.Services.pdb

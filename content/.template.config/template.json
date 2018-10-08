@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Matheus Queiroz",
+    "classifications": [ "API", "ASP.NET Core", "BLiP", "Razor" ],
+    "identity": "Blip.WebView.Template",
+    "name": "BLiP WebView Template",
+    "shortName": "blip-webview",
+	"tags":{
+		"language": "C#" 
+	},
+	"sourceName": "Blip.WebView.Template",
+	"preferNameDirectory": true
+}
