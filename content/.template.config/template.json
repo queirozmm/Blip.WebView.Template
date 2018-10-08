@@ -8,6 +8,6 @@
 	"tags":{
 		"language": "C#" 
 	},
-	"sourceName": "Blip.WebView.Template",
+	"sourceName": "WebViewTemplate",
 	"preferNameDirectory": true
 }
