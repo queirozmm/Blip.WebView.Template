@@ -11,6 +11,10 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <DocumentationFile>$(OutputPath)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
   </PropertyGroup>
+  
+  <PropertyGroup>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile> 
+  </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Blip.HttpClient" Version="1.0.5" />
