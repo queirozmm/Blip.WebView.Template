@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -58,7 +58,7 @@ namespace WebViewTemplate
             services.AddSingleton<ILogger>(new LoggerConfiguration()
                      .ReadFrom.Configuration(Configuration)
                      .Enrich.WithMachineName()
-                     .Enrich.WithProperty("Application", "Take.Test.Batatinha")
+                     .Enrich.WithProperty("Application", Assembly.GetExecutingAssembly().GetName().Name)
                      .Enrich.WithExceptionDetails()
                      .CreateLogger());
 

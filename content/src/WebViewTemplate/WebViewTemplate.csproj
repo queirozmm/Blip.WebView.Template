@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Code\Blip.WebView.Template\content\src\WebViewTemplate\WebViewTemplate.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Blip.HttpClient" Version="1.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
